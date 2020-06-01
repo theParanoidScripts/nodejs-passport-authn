@@ -17,7 +17,7 @@ npm install
 npm run devStart
 ```
 <br><br>
-This will spin up a development server at the address [localhost:3000](localhost:3000).
+This will spin up a development server at the address [http://localhost:3000](http://localhost:3000).
 
 ### Note:
 
