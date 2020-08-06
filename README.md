@@ -6,7 +6,7 @@ A login system made using passport.js and third party OAuth.
 
 * Clone this repo and cd into it:
 ```
-git clone https://github.com/theParanoidScripts/nodejs-passport-authn.git && cd nodejs-passport-authn
+git clone https://github.com/k4u5h4L/nodejs-passport-authn.git && cd nodejs-passport-authn
 ```
 * Install dependencies;
 ```
